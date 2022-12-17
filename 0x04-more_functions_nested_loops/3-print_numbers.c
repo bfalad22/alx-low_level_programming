@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * *print_numbers - print 0123456789
- * 
+ * print_numbers - print 0123456789
+ * Owned by Bwave ICT 
  * Return: void
  */
 
