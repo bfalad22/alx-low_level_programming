@@ -1,8 +1,9 @@
-#include "main.h"
 #include <stdio.h>
 
+void swap_int(int *, int *);
+
 /**
- * main - check the code
+ * main - check the code for Holberton School students.
  *
  * Return: Always 0.
  */
@@ -13,8 +14,8 @@ int main(void)
 
 	a = 98;
 	b = 42;
-	printf("a=%d, b=%d\n", a, b);
+	printf("%d, %d\n", a, b);
 	swap_int(&a, &b);
-	printf("a=%d, b=%d\n", a, b);
+	printf("%d, %d\n", a, b);
 	return (0);
 }
