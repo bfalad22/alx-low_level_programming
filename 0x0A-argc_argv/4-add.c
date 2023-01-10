@@ -28,7 +28,7 @@ int main(int argc, char **argv)
 		}
 		else
 		{
-																							sum += n;																	    }
+			sum += n;																	    }
 	}
 	printf("%d\n", sum);
 
