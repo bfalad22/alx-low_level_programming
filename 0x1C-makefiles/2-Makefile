@@ -5,4 +5,3 @@ NAME=school
 
 all: $(OBJ) m.h
 	$(CC) $(OBJ) -o $(NAME)
-
